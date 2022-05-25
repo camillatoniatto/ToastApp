@@ -1,0 +1,13 @@
+C:\Users\Aluno\source\repos\XMobileApp\XMobileApp\bin\Debug\netstandard2.0\XMobileApp.deps.json
+C:\Users\Aluno\source\repos\XMobileApp\XMobileApp\bin\Debug\netstandard2.0\XMobileApp.dll
+C:\Users\Aluno\source\repos\XMobileApp\XMobileApp\bin\Debug\netstandard2.0\ref\XMobileApp.dll
+C:\Users\Aluno\source\repos\XMobileApp\XMobileApp\bin\Debug\netstandard2.0\XMobileApp.pdb
+C:\Users\Aluno\source\repos\XMobileApp\XMobileApp\obj\Debug\netstandard2.0\XMobileApp.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\XMobileApp\XMobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Aluno\source\repos\XMobileApp\XMobileApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Aluno\source\repos\XMobileApp\XMobileApp\obj\Debug\netstandard2.0\XMobileApp.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\XMobileApp\XMobileApp\obj\Debug\netstandard2.0\XMobileApp.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\XMobileApp\XMobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Aluno\source\repos\XMobileApp\XMobileApp\obj\Debug\netstandard2.0\XMobileApp.dll
+C:\Users\Aluno\source\repos\XMobileApp\XMobileApp\obj\Debug\netstandard2.0\ref\XMobileApp.dll
+C:\Users\Aluno\source\repos\XMobileApp\XMobileApp\obj\Debug\netstandard2.0\XMobileApp.pdb
